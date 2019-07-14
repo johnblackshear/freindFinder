@@ -1,4 +1,4 @@
-var freinds = [
+var matchFreind = [
     {
         name: 'Troy Barnes',
         photo:'https://cdn3.whatculture.com/images/2015/09/Community-Troy.jpg',
@@ -64,4 +64,4 @@ var freinds = [
     },
 ]
 
-module.exports
+module.exports = matchFreind;
