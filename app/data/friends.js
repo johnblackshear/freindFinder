@@ -1,4 +1,4 @@
-var freindsArray = [
+var freinds = [
     {
         name: 'Troy Barnes',
         photo:'https://cdn3.whatculture.com/images/2015/09/Community-Troy.jpg',
